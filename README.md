@@ -39,12 +39,12 @@ To get started, clone this repository and install the dependencies:
 git clone https://github.com/yourusername/campuseats.git
 cd campuseats
 npm install
-
+```
 Run the development server:
 
 ```bash
 npm run dev
-
+```
 The app should be up and running at http://localhost:3000! 🎉
 Future Features 🔮
 
