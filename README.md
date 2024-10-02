@@ -52,10 +52,10 @@ npm run dev
 The app should be up and running at http://localhost:3000! 🎉
 ## Future Features 🔮
 
-    **Online Payment Integration 💳**
-    **Order History 📝**
-    **Discounts and Coupons 🎫**
-    **Real-Time Order Updates ⏱️**
+    - Online Payment Integration 💳
+    - Order History 📝
+    - Discounts and Coupons 🎫
+    - Real-Time Order Updates ⏱️
 
 ## Contributing 🤝
 
