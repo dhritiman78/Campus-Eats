@@ -39,7 +39,7 @@ To get started, clone this repository and install the dependencies:
 git clone 'https://github.com/dhritiman78/Campus-Eats'
 ```
 ```bash
-cd campuseats
+cd Campus-Eats
 ```
 ```bash
 npm install
