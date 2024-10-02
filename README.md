@@ -36,7 +36,7 @@ Welcome to **Campus Eats**, a web app designed to make food ordering from your f
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/campuseats.git
+git clone 'https://github.com/dhritiman78/Campus-Eats'
 ```
 ```bash
 cd campuseats
