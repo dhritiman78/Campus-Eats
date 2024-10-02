@@ -37,7 +37,11 @@ To get started, clone this repository and install the dependencies:
 
 ```bash
 git clone https://github.com/yourusername/campuseats.git
+```
+```bash
 cd campuseats
+```
+```bash
 npm install
 ```
 Run the development server:
@@ -46,18 +50,18 @@ Run the development server:
 npm run dev
 ```
 The app should be up and running at http://localhost:3000! 🎉
-Future Features 🔮
+## Future Features 🔮
 
-    Online Payment Integration 💳
-    Order History 📝
-    Discounts and Coupons 🎫
-    Real-Time Order Updates ⏱️
+    **Online Payment Integration 💳**
+    **Order History 📝**
+    **Discounts and Coupons 🎫**
+    **Real-Time Order Updates ⏱️**
 
-Contributing 🤝
+## Contributing 🤝
 
 We welcome contributions! Feel free to open issues and submit pull requests. Let's build something awesome together! 💪
 License 📄
 
-This project is licensed under the MIT License.
+**This project is licensed under the MIT License.**
 
-Happy Ordering! 🍕📲
+**Happy Ordering! 🍕📲**
