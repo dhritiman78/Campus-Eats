@@ -32,7 +32,7 @@ export const POST = async (req) => {
     }
 
     // If password matches, return a success message (or generate JWT token if needed)
-    var token = jwt.sign({ userId: user._id }, process.env.NEXT_JWT_SECRET, {expiresIn: '24h'});
+    var token = jwt.sign({user: user._id}, process.env.NEXT_JWT_SECRET, {expiresIn: '24h'});
     return NextResponse.json({ message: "Login successful!", token, status: 200 });
   } catch (error) {
     console.error("Error logging in:", error);
